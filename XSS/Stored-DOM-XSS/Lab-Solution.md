@@ -1,6 +1,7 @@
 # Lab: Stored DOM XSS
 
 **Difficulty:** Practitioner
+
 **Link:** https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-dom-xss-stored
 
 ## Objective : exploit this vulnerability to call the alert() function.
