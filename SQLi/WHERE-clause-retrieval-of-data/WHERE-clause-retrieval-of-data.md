@@ -13,11 +13,9 @@
 
 **Payload:** ' OR released = 0 --
 
-**Result:** 
+**Result:**
 SELECT * FROM products WHERE category = '' OR released = 0 -- AND released = 1
 '--' was used to comment out the rest of the query.
 
-```markdown
 ![Image 1](1.png)
 ![Image 2](2.png)
-```
